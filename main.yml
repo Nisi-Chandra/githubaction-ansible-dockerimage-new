@@ -96,7 +96,7 @@
   hosts: test
   become: true
   vars:
-    image_name: "fujikomalan/flask-morning"
+    image_name: "nisik2023/flask-new"
     packages:
       - docker
       - python3-pip
